@@ -1,90 +1,138 @@
-# Hi, I'm Ritesh Kumar 👋
+# 👋 Hi, I'm Ritesh Kumar
 
-### B.Tech Information Technology Student | AI & ML Enthusiast
+### B.Tech IT Student | AI & ML Enthusiast | Data Analytics
 
-I am a B.Tech Information Technology student with an interest in
-Artificial Intelligence, Machine Learning, Data Analysis, and
-problem solving.
-
-I enjoy learning new technologies, working with data, and building
-practical projects using Python and Machine Learning.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Data+Analysis+%7C+SQL;Learning+%26+Building+Every+Day" />
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech in Information Technology
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🐍 Working with Python
-- 📊 Interested in Data Analysis & Data Visualization
-- 🗄️ Learning SQL / MySQL
-- 🧠 Exploring NLP and Deep Learning
-- 💻 Practicing problem solving and programming
+🎓 B.Tech Information Technology student at Rajkiya Engineering College, Ambedkar Nagar.
 
----
+🤖 Interested in Artificial Intelligence and Machine Learning.
 
-## Skills
+📊 Exploring Data Analysis, Data Visualization and Applied Statistics.
 
-### Programming
-- Python
-- C
-- R
-- SQL / MySQL
+🐍 Working with Python and Machine Learning technologies.
 
-### Machine Learning & AI
-- Machine Learning
-- NLP
-- Deep Learning Fundamentals
-- Recommendation Systems
-- Data Preprocessing
+🧠 Currently strengthening my problem-solving and DSA fundamentals.
 
-### Libraries & Frameworks
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Keras
-- NLTK
-- SpaCy
-- Streamlit
-- Flask
-
-### Data & Visualization
-- Excel
-- Tableau
-- Data Analysis
-- Data Visualization
-- Applied Statistics
+🚀 Interested in building practical projects and continuously improving my technical skills.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Machine Learning-Based Book Recommendation System
+<p align="center">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+</a>
+
+<a href="https://www.c-language.org/">
+<img src="https://skillicons.dev/icons?i=c" width="55"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+</a>
+
+<a href="https://jupyter.org/">
+<img src="https://skillicons.dev/icons?i=jupyter" width="55"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+</a>
+
+<a href="https://keras.io/">
+<img src="https://skillicons.dev/icons?i=keras" width="55"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://skillicons.dev/icons?i=flask" width="55"/>
+</a>
+
+<a href="https://numpy.org/">
+<img src="https://skillicons.dev/icons?i=numpy" width="55"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://skillicons.dev/icons?i=pandas" width="55"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
+</a>
+
+</p>
+
+---
+
+## 🧠 Areas of Interest
+
+<p align="center">
+
+🤖 Artificial Intelligence  
+🧠 Machine Learning  
+📊 Data Analysis  
+📈 Data Visualization  
+🔤 Natural Language Processing  
+🐍 Python Programming  
+💻 Data Structures & Algorithms
+
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 📚 Machine Learning-Based Book Recommendation System
 
 A Machine Learning based recommendation system developed to provide
 personalized book suggestions.
 
-**Technologies:**
-Python, Pandas, NumPy, Scikit-learn, Streamlit
+**Tech Used:**
 
-**Key Work:**
+Python • Pandas • NumPy • Scikit-learn • Streamlit
+
+**Highlights:**
+
 - Data preprocessing and analysis
 - Similarity-based recommendation
 - Feature engineering
-- Interactive web application using Streamlit
+- Interactive Streamlit application
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Deloitte Australia – Data Analytics Job Simulation
+### Deloitte Australia — Data Analytics Job Simulation
 
-- Worked on data analysis using Excel
+- Worked with Excel for data analysis
 - Created Tableau dashboards
-- Generated insights through data visualization and analysis
+- Generated insights through data visualization
 
-### YBI Foundation – Python Programming Intern
+### YBI Foundation — Python Programming Intern
 
 - Completed a Python Programming internship
 - Developed Python-based solutions
@@ -92,40 +140,15 @@ Python, Pandas, NumPy, Scikit-learn, Streamlit
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Data Analysis
-- Python
-
----
-
-## Connect With Me
-
-📧 Email: riteshkumar972116@gmail.com
-
-💼 LinkedIn: [Ritesh Kumar](https://www.linkedin.com/in/ritesh-kumar-255234318/)
-
-💻 GitHub: [riteshkumar07-ai](https://github.com/riteshkumar07-ai)
-
----
-
-> Learning, building, and improving every day.
-
-<!--
-**riteshkumar07-ai/riteshkumar07-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Data Analysis
+        ↓
+NLP & Deep Learning
+        ↓
+Data Structures & Algorithms
