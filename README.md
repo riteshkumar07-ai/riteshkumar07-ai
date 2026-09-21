@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Ritesh Kumar
 
-### B.Tech IT Student | AI & ML Enthusiast | Data Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;B.Tech+Information+Technology+Student;Python+%7C+Data+Analysis+%7C+Machine+Learning;Learning+%7C+Building+%7C+Improving" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Data+Analysis+%7C+SQL;Learning+%26+Building+Every+Day" />
+  <a href="https://github.com/riteshkumar07-ai">
+    <img src="https://komarev.com/ghpvc/?username=riteshkumar07-ai&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
@@ -18,72 +22,36 @@
 
 🐍 Working with Python and Machine Learning technologies.
 
-🧠 Currently strengthening my problem-solving and DSA fundamentals.
+🧠 Building strong foundations in programming and problem solving.
 
-🚀 Interested in building practical projects and continuously improving my technical skills.
+🚀 I enjoy learning new technologies and turning ideas into practical projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Programming
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-</a>
-
-<a href="https://www.c-language.org/">
-<img src="https://skillicons.dev/icons?i=c" width="55"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="55"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-</a>
-
-<a href="https://jupyter.org/">
-<img src="https://skillicons.dev/icons?i=jupyter" width="55"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
-<p align="center">
+### 🤖 AI / Machine Learning
 
-<a href="https://www.tensorflow.org/">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn" />
+</p>
 
-<a href="https://keras.io/">
-<img src="https://skillicons.dev/icons?i=keras" width="55"/>
-</a>
+### 📊 Data & Analytics
 
-<a href="https://flask.palletsprojects.com/">
-<img src="https://skillicons.dev/icons?i=flask" width="55"/>
-</a>
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,mysql" />
+</p>
 
-<a href="https://numpy.org/">
-<img src="https://skillicons.dev/icons?i=numpy" width="55"/>
-</a>
+### 🌐 Development & Tools
 
-<a href="https://pandas.pydata.org/">
-<img src="https://skillicons.dev/icons?i=pandas" width="55"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=flask,streamlit,git,github,vscode,jupyter" />
 </p>
 
 ---
@@ -92,13 +60,9 @@
 
 <p align="center">
 
-🤖 Artificial Intelligence  
-🧠 Machine Learning  
-📊 Data Analysis  
-📈 Data Visualization  
-🔤 Natural Language Processing  
-🐍 Python Programming  
-💻 Data Structures & Algorithms
+| 🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Analysis |
+|:---:|:---:|:---:|
+| 🔤 NLP | 🧬 Deep Learning | 📈 Data Visualization |
 
 </p>
 
@@ -108,14 +72,14 @@
 
 ### 📚 Machine Learning-Based Book Recommendation System
 
-A Machine Learning based recommendation system developed to provide
-personalized book suggestions.
+A Machine Learning project designed to provide personalized book
+recommendations.
 
-**Tech Used:**
+**Tech Stack**
 
-Python • Pandas • NumPy • Scikit-learn • Streamlit
+`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
-**Highlights:**
+**Highlights**
 
 - Data preprocessing and analysis
 - Similarity-based recommendation
@@ -137,6 +101,50 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit
 - Completed a Python Programming internship
 - Developed Python-based solutions
 - Strengthened programming and problem-solving skills
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=riteshkumar07-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshkumar07-ai&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=riteshkumar07-ai&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshkumar07-ai&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=riteshkumar07-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</p>
 
 ---
 
